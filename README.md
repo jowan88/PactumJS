@@ -1,2 +1,2 @@
 # PactumJS
-training repo for PactumJs api tests
+PactumJs api tests - restore old repo
